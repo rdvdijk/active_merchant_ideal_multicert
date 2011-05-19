@@ -29,3 +29,4 @@ with the proper certificate identified by the message fingerprint.
 ## LICENSE
 
 active_merchant_ideal_multicert is Copyright (c) 2011 Voormedia B.V. and distributed under the MIT license. See the LICENSE file for more info.
+
